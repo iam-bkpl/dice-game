@@ -6,3 +6,6 @@
 3. Once you get any number on current you can hold that score and it will be saved.
 4. You will win the game when you score more than 50 points
 5. You can start the new game and play once again
+
+# Game Link
+https://iam-bkpl.github.io/dice-game/
